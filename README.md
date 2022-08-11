@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?export=download&id=1VeTnHzcnxiTnViBqGk5eK8n6nGCs2r0F)
+<img src="https://drive.google.com/uc?export=download&id=1YHGTcWWAjk5LBUhaLMIM75CSg241L5Bh" width ="100%">
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">, I'm Rishabh Sinha</h1>
 <h3 align="center">Programmer | Graphic Designer | CGI Animator</h3>
 
