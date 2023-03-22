@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsinha02&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsinha02" /> </p>
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Web Development, 3D Modeling**
 
