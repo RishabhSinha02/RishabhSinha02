@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=download&id=1HyexyNnE5CWeOrZt9Td3-ajn2u4pmjua" width ="100%">
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">, I'm Rishabh Sinha</h1>
-<h3 align="center">Programmer | Graphic Designer | CGI Animator</h3>
+<h3 align="center">Fullstack Web Developer | Graphic Designer | CGI Animator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsinha02&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsinha02" /> </p>
 
